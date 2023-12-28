@@ -1,0 +1,1 @@
+{"name":"Local: SumInBinaryTree","url":"/home/g-shack/Codefoces/SumInBinaryTree.cpp","tests":[{"id":1687895356169,"input":"6\n3\n10\n37\n1\n10000000000000000\n15","output":"4\n18\n71\n1\n19999999999999980\n26"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/g-shack/Codefoces/SumInBinaryTree.cpp","group":"local","local":true}

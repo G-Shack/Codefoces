@@ -1,0 +1,1 @@
+{"name":"Local: MusicalPuzzle","url":"/home/g-shack/Codefoces/MusicalPuzzle.cpp","tests":[{"id":1684510590326,"input":"5\n4\nabab\n7\nabacaba\n6\naaaaaa\n7\nabcdefg\n5\nbabdd\n","output":"2\n4\n1\n6\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/g-shack/Codefoces/MusicalPuzzle.cpp","group":"local","local":true}
